@@ -1,0 +1,82 @@
+body {
+  background-color: #20100C;
+}
+
+title {
+  color: #ffffff;
+}
+
+ /* unvisited link */
+a:link {
+  color: #6C94FC;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #66D888;
+}
+
+/* mouse over link */
+a:hover {
+  color: #EAC1E8;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #C4B2DE;
+} 
+
+h1 {
+  color: #f9f5ec;
+}
+
+h2 {
+  color: #f9f5ec;
+}
+
+h3 {
+  color: #f9f5ec;
+}
+
+h4 {
+  color: #f9f5ec;
+}
+
+h5 {
+  color: #f9f5ec;
+}
+
+h6 {
+  color: #f9f5ec;
+}
+
+p {
+  color: #f9f5ec;
+}
+
+
+ul {
+  color: #f9f5ec;
+    font-weight: bold;
+}
+
+ul ul{
+  color: #f9f5ec;
+    font-weight: normal;
+}
+
+br {
+  color: #f9f5ec;
+}
+
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:white;border-style:solid;border-width:1px;}
+.tg th{border-style:solid;border-width:1px;}
+.tg .tg-yd0z{border-color:#f9f5ec;color:#f9f5ec;font-family:inherit;font-size:100%;font-weight:bold;text-align:center;
+  vertical-align:middle}
+.tg .tg-elpm{border-color:#f9f5ec;color:#f9f5ec;font-family:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-1uvp{border-color:#f9f5ec;color:#f9f5ec;font-family:inherit;text-align:left;vertical-align:middle}
+</style>
