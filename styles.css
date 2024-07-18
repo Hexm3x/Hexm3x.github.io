@@ -3,7 +3,7 @@ body {
 }
 
 title {
-  color: #ffffff;
+  color: #f9f5ec;
 }
 
  /* unvisited link */
@@ -73,10 +73,9 @@ br {
 
 
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:white;border-style:solid;border-width:1px;}
+.tg td{border-color:#f9f5ec;border-style:solid;border-width:1px;}
 .tg th{border-style:solid;border-width:1px;}
 .tg .tg-yd0z{border-color:#f9f5ec;color:#f9f5ec;font-family:inherit;font-size:100%;font-weight:bold;text-align:center;
   vertical-align:middle}
 .tg .tg-elpm{border-color:#f9f5ec;color:#f9f5ec;font-family:inherit;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-1uvp{border-color:#f9f5ec;color:#f9f5ec;font-family:inherit;text-align:left;vertical-align:middle}
-</style>
